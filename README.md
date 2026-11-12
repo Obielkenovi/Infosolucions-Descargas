@@ -8,7 +8,7 @@ Descarga pública y directa, sin cuenta de GitHub.
 
 | Programa | Versión y sistema | Descarga |
 | --- | --- | --- |
-| **Movento Migrador** | 7.1.1 · Windows x64 | [**Descargar instalador**](https://github.com/Obielkenovi/Infosolucions-Descargas/releases/download/movento-migrador-v7.1.1/MoventoMigrador-Windows-x64-Setup.exe) · [Detalles](https://github.com/Obielkenovi/Infosolucions-Descargas/releases/tag/movento-migrador-v7.1.1) |
+| **Movento Migrador** | 7.1.2 · Windows x64 | [**Descargar instalador**](https://github.com/Obielkenovi/Infosolucions-Descargas/releases/download/movento-migrador-v7.1.2/MoventoMigrador-Windows-x64-Setup.exe) · [Detalles](https://github.com/Obielkenovi/Infosolucions-Descargas/releases/tag/movento-migrador-v7.1.2) |
 
 ### Instalación
 
